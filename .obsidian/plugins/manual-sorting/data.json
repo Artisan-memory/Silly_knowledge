@@ -21,6 +21,7 @@
       "Telegram/documents",
       "Telegram/photos"
     ],
+    "Telegram/documents": [],
     "Telegram/photos": [],
     "VPS": [
       "VPS/VPS.md",
@@ -31,8 +32,7 @@
     ],
     "Интернет": [
       "Интернет/TCP IP.md"
-    ],
-    "Telegram/documents": []
+    ]
   },
   "sortOrder": "customOrder",
   "debugMode": false,

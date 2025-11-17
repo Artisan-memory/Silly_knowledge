@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интернет/TCP IP.md",
+                "file": "go/Теория.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP"
+              "title": "Теория"
             }
           }
         ]
@@ -83,92 +83,7 @@
   "right": {
     "id": "843d9a6f309cda41",
     "type": "split",
-    "children": [
-      {
-        "id": "4fff271fd200a65d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b452f4530175dd4b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "GPT - EBALAY/Untitled 3.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 3"
-            }
-          },
-          {
-            "id": "18ed5357acc7fa59",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Интернет/TCP IP.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from TCP IP"
-            }
-          },
-          {
-            "id": "5a0ebe906d94ee82",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "b122dcd8258ac6c4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "9c7be49188405202",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Интернет/TCP IP.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of TCP IP"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300
   },
@@ -181,25 +96,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "custom-sort:Toggle custom sorting": false,
-      "diarian:Select Diarian view": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "84925d53cd67b521",
   "lastOpenFiles": [
+    "Всякое/Вредоносное ПО.md",
+    "go/Теория.md",
+    "VPS/VPS.md",
+    "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf",
     "Интернет/TCP IP.md",
     "GPT - EBALAY/Untitled.md",
     "GPT - EBALAY/Untitled 2.md",
     "GPT - EBALAY/Untitled 1.md",
     "Интернет/Untitled.md",
     "2025-11-17.md",
-    "Всякое/Вредоносное ПО.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "go/Теория.md",
-    "VPS/VPS.md",
-    "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf",
     "Telegram/photos/photo_2092916097_1 - 20251117044210421.jpg",
     "Telegram/_files - 20251117044016169.md",
     "Telegram/sd - 20251117044006541.md",
@@ -220,7 +133,6 @@
     "Telegram/_ss - 20251117044012418.md",
     "Telegram/s - 20251117044010020.md",
     "Telegram/s - 20251117044009630.md",
-    "Telegram/s - 20251117044008713.md",
     "Telegram",
     "go",
     "GPT - EBALAY",
