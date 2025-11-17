@@ -1,9 +1,9 @@
 {
   "customOrder": {
     "/": [
+      "go",
       "Интернет",
       "Всякое",
-      "go",
       "VPS",
       "Telegram",
       "GPT - EBALAY"
@@ -21,14 +21,23 @@
       "Telegram/documents",
       "Telegram/photos"
     ],
-    "Telegram/documents": [],
+    "Telegram/documents": [
+      "Telegram/documents/ПОЛИТЕХ - 20251117163758584.zip"
+    ],
     "Telegram/photos": [],
     "VPS": [
       "VPS/VPS.md",
       "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf"
     ],
     "Всякое": [
+      "Всякое/инф",
       "Всякое/Вредоносное ПО.md"
+    ],
+    "Всякое/инф": [
+      "Всякое/инф/Информация.md",
+      "Всякое/инф/Системы счисления.md",
+      "Всякое/инф/Алгоритмы.md",
+      "Всякое/инф/Моделирование.md"
     ],
     "Интернет": [
       "Интернет/TCP IP.md"

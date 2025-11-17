@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go/Теория.md",
+                "file": "Интернет/TCP IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теория"
+              "title": "TCP IP"
             }
           }
         ]
@@ -83,9 +83,94 @@
   "right": {
     "id": "843d9a6f309cda41",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "a2162dc53ec60ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8471edd41d3d2fa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TCP IP"
+            }
+          },
+          {
+            "id": "b63a3069c37218e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TCP IP"
+            }
+          },
+          {
+            "id": "18fcf1793af6f810",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e4bfefb479f41d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8beabcde86d613a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TCP IP"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -101,9 +186,17 @@
   },
   "active": "84925d53cd67b521",
   "lastOpenFiles": [
+    "Всякое/инф/Информация.md",
     "Всякое/Вредоносное ПО.md",
+    "Всякое/инф/Моделирование.md",
+    "Всякое/инф/Алгоритмы.md",
+    "Всякое/инф/Системы счисления.md",
     "go/Теория.md",
     "VPS/VPS.md",
+    "Всякое/инф",
+    "Telegram/ПОЛИТЕХ.zip - 20251117163758607.md",
+    "go/Untitled.md",
+    "Telegram/documents/ПОЛИТЕХ - 20251117163758584.zip",
     "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf",
     "Интернет/TCP IP.md",
     "GPT - EBALAY/Untitled.md",
@@ -127,16 +220,9 @@
     "Telegram/documents",
     "Telegram/s - 20251117044022001.md",
     "Telegram/s - 20251117044021156.md",
-    "Telegram/_files - 20251117044018620.md",
-    "Telegram/_files - 20251117044016781.md",
-    "Telegram/_sabotage - 20251117044015993.md",
-    "Telegram/_ss - 20251117044012418.md",
-    "Telegram/s - 20251117044010020.md",
-    "Telegram/s - 20251117044009630.md",
     "Telegram",
     "go",
     "GPT - EBALAY",
-    "Интернет",
-    "VPS"
+    "Интернет"
   ]
 }
