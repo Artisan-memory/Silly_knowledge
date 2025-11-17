@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1763344040757,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "go"
+        },
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "GPT - EBALAY"
+        },
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "Telegram"
+        },
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "VPS"
+        },
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "Всякое"
+        },
+        {
+          "type": "group",
+          "ctime": 1763344106313,
+          "items": [],
+          "title": "Интернет"
+        },
+        {
+          "type": "file",
+          "ctime": 1763344106313,
+          "path": "VPS/VPS.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

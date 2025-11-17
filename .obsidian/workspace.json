@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ac0af1af6b0ca323",
+    "type": "split",
+    "children": [
+      {
+        "id": "b180dafecd80c13c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84925d53cd67b521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98b28acb1285dd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "554f84c43d59a965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75dd80de30e1ff72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "customOrder",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e132a9caf280d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfaf70ee249e4c73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "843d9a6f309cda41",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fff271fd200a65d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b452f4530175dd4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GPT - EBALAY/Untitled 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 3"
+            }
+          },
+          {
+            "id": "18ed5357acc7fa59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TCP IP"
+            }
+          },
+          {
+            "id": "5a0ebe906d94ee82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b122dcd8258ac6c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c7be49188405202",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Интернет/TCP IP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TCP IP"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "custom-sort:Toggle custom sorting": false,
+      "diarian:Select Diarian view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "84925d53cd67b521",
+  "lastOpenFiles": [
+    "Интернет/TCP IP.md",
+    "GPT - EBALAY/Untitled.md",
+    "GPT - EBALAY/Untitled 2.md",
+    "GPT - EBALAY/Untitled 1.md",
+    "Интернет/Untitled.md",
+    "2025-11-17.md",
+    "Всякое/Вредоносное ПО.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "go/Теория.md",
+    "VPS/VPS.md",
+    "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf",
+    "Telegram/photos/photo_2092916097_1 - 20251117044210421.jpg",
+    "Telegram/_files - 20251117044016169.md",
+    "Telegram/sd - 20251117044006541.md",
+    "Telegram/s - 20251117044020761.md",
+    "Telegram/s - 20251117044008795.md",
+    "Telegram/_ss - 20251117044012807.md",
+    "Telegram/_sabotage - 20251117044015606.md",
+    "Telegram/_files - 20251117044018245.md",
+    "Всякое",
+    "Telegram/s - 20251117044414412.md",
+    "Telegram/photos",
+    "Telegram/documents",
+    "Telegram/s - 20251117044022001.md",
+    "Telegram/s - 20251117044021156.md",
+    "Telegram/_files - 20251117044018620.md",
+    "Telegram/_files - 20251117044016781.md",
+    "Telegram/_sabotage - 20251117044015993.md",
+    "Telegram/_ss - 20251117044012418.md",
+    "Telegram/s - 20251117044010020.md",
+    "Telegram/s - 20251117044009630.md",
+    "Telegram/s - 20251117044008713.md",
+    "Telegram",
+    "go",
+    "GPT - EBALAY",
+    "Интернет",
+    "VPS"
+  ]
+}

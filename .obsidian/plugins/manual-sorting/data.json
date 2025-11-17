@@ -1,0 +1,40 @@
+{
+  "customOrder": {
+    "/": [
+      "Интернет",
+      "Всякое",
+      "go",
+      "VPS",
+      "Telegram",
+      "GPT - EBALAY"
+    ],
+    "go": [
+      "go/Теория.md"
+    ],
+    "GPT - EBALAY": [
+      "GPT - EBALAY/Untitled.md",
+      "GPT - EBALAY/Untitled 1.md",
+      "GPT - EBALAY/Untitled 2.md",
+      "GPT - EBALAY/Untitled 3.md"
+    ],
+    "Telegram": [
+      "Telegram/documents",
+      "Telegram/photos"
+    ],
+    "Telegram/photos": [],
+    "VPS": [
+      "VPS/VPS.md",
+      "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf"
+    ],
+    "Всякое": [
+      "Всякое/Вредоносное ПО.md"
+    ],
+    "Интернет": [
+      "Интернет/TCP IP.md"
+    ],
+    "Telegram/documents": []
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
