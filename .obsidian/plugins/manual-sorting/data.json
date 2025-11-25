@@ -9,6 +9,8 @@
       "GPT - EBALAY"
     ],
     "go": [
+      "go/Диапазон.md",
+      "go/Массивы, слайсы, мапы, структ интерфейс.md",
       "go/Теория.md"
     ],
     "GPT - EBALAY": [
@@ -26,6 +28,7 @@
     ],
     "Telegram/photos": [],
     "VPS": [
+      "VPS/Порты.md",
       "VPS/VPS.md",
       "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf"
     ],

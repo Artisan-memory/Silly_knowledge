@@ -1,5 +1,5 @@
 
-### **1. UFW (Uncomplicated Firewall)**
+### **1. UFW (Uncomplicated Firewall)** 
 
 | **Команда**                           | **Описание**                                  |
 | ------------------------------------- | --------------------------------------------- |
@@ -47,6 +47,37 @@
 | ```sudo fail2ban-client reload <jail-name>```              | Перезагрузить настройки конкретного фильтра (например, **sshd**).                                   |
 
 
-sudo ss -tuln | grep :80
+## Логи
 
-проверить порт
+```bash
+lnav /var/log/nginx/access_json.log
+
+cat /var/log/nginx/access_json.log | jq -r '.remote_addr' | sort | uniq -c | sort -nr | head -n 10
+
+tail -f /var/log/nginx/access_json.log | jq -r '
+  "IP: \(.remote_addr) \t| Status: \(.status) \t| Ref: \(.http_referer)"
+'
+
+sudo goaccess /var/log/nginx/access.log \
+  --log-format=COMBINED \
+  --real-time-html \
+  --ws-url=127.0.0.1:7890 \
+  --addr=127.0.0.1 \
+  --port=7890 \
+  --ignore-crawlers \
+  --daemonize
+
+```
+
+```bash
+sudo ufw insert 1 deny from 78.153.140.203 to any
+```
+
+```bash
+sudo ss -tuln | grep :80
+```
+
+```bash
+sudo nano /etc/systemd/system/mtproto-proxy.service
+```
+

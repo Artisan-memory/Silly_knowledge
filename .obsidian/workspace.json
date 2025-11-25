@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интернет/TCP IP.md",
+                "file": "VPS/Порты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP"
+              "title": "Порты"
+            }
+          },
+          {
+            "id": "f9c6d77bb1e4b380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "go/Массивы, слайсы, мапы, структ интерфейс.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Массивы, слайсы, мапы, структ интерфейс"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,23 +199,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84925d53cd67b521",
+  "active": "f9c6d77bb1e4b380",
   "lastOpenFiles": [
+    "go/Теория.md",
+    "go/Массивы, слайсы, мапы, структ интерфейс.md",
+    "go/Диапазон.md",
+    "GPT - EBALAY/Untitled 2.md",
+    "VPS/Порты.md",
+    "VPS/VPS.md",
+    "Интернет/TCP IP.md",
     "Всякое/инф/Информация.md",
     "Всякое/Вредоносное ПО.md",
     "Всякое/инф/Моделирование.md",
     "Всякое/инф/Алгоритмы.md",
     "Всякое/инф/Системы счисления.md",
-    "go/Теория.md",
-    "VPS/VPS.md",
     "Всякое/инф",
     "Telegram/ПОЛИТЕХ.zip - 20251117163758607.md",
-    "go/Untitled.md",
     "Telegram/documents/ПОЛИТЕХ - 20251117163758584.zip",
     "VPS/ubuntu_cli_cheat_sheet - 20251117044025576.pdf",
-    "Интернет/TCP IP.md",
     "GPT - EBALAY/Untitled.md",
-    "GPT - EBALAY/Untitled 2.md",
     "GPT - EBALAY/Untitled 1.md",
     "Интернет/Untitled.md",
     "2025-11-17.md",
@@ -218,8 +235,6 @@
     "Telegram/s - 20251117044414412.md",
     "Telegram/photos",
     "Telegram/documents",
-    "Telegram/s - 20251117044022001.md",
-    "Telegram/s - 20251117044021156.md",
     "Telegram",
     "go",
     "GPT - EBALAY",
